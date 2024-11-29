@@ -1,1 +1,1 @@
-# class_biocoding_2024
+# biocoding_genome_class_python

@@ -1,0 +1,5 @@
+f = open("new_file.txt", 'r')
+data = f.read()
+print(data)
+print(type(data))
+f.close()
