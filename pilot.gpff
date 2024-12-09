@@ -1,0 +1,94 @@
+LOCUS       NP_001350467             919 aa            linear   PRI 17-MAR-2022
+DEFINITION  TRPM8 channel-associated factor 2 isoform C [Homo sapiens].
+ACCESSION   NP_001350467 XP_006715990
+VERSION     NP_001350467.1
+DBSOURCE    REFSEQ: accession NM_001363538.2
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 919)
+  AUTHORS   Hsieh P, Dang V, Vollger MR, Mao Y, Huang TH, Dishuck PC, Baker C,
+            Cantsilieris S, Lewis AP, Munson KM, Sorensen M, Welch AE,
+            Underwood JG and Eichler EE.
+  TITLE     Evidence for opposing selective forces operating on human-specific
+            duplicated TCAF genes in Neanderthals and humans
+  JOURNAL   Nat Commun 12 (1), 5118 (2021)
+   PUBMED   34433829
+  REMARK    GeneRIF: Evidence for opposing selective forces operating on
+            human-specific duplicated TCAF genes in Neanderthals and humans.
+            Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 919)
+  AUTHORS   Gkika D, Lemonnier L, Shapovalov G, Gordienko D, Poux C, Bernardini
+            M, Bokhobza A, Bidaux G, Degerny C, Verreman K, Guarmit B, Benahmed
+            M, de Launoit Y, Bindels RJ, Fiorio Pla A and Prevarskaya N.
+  TITLE     TRP channel-associated factors are a novel protein family that
+            regulates TRPM8 trafficking and activity
+  JOURNAL   J Cell Biol 208 (1), 89-107 (2015)
+   PUBMED   25559186
+  REMARK    GeneRIF: Report novel TRP channel-associated factors that modulate
+            TRPM8 activity.
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AC073264.5 and AC106862.3.
+            On May 24, 2018 this sequence version replaced XP_006715990.1.
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803611.179878.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000684770.1/ ENSP00000506869.1
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+FEATURES             Location/Qualifiers
+     source          1..919
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+                     /map="7q35"
+     Protein         1..919
+                     /product="TRPM8 channel-associated factor 2 isoform C"
+                     /note="family with sequence similarity 139, member A;
+                     protein FAM115C; family with sequence similarity 115,
+                     member C; TRP channel-associated factor 2"
+                     /calculated_mol_wt=100775
+     Region          520..889
+                     /region_name="Peptidase_M60"
+                     /note="Peptidase M60, enhancin and enhancin-like;
+                     pfam13402"
+                     /db_xref="CDD:315965"
+     CDS             1..919
+                     /gene="TCAF2"
+                     /gene_synonym="FAM115C; FAM139A; GATD9; GATD9B"
+                     /coded_by="NM_001363538.2:59..2818"
+                     /note="isoform C is encoded by transcript variant 4"
+                     /db_xref="CCDS:CCDS87559.1"
+                     /db_xref="GeneID:285966"
+                     /db_xref="HGNC:HGNC:26878"
+                     /db_xref="MIM:616252"
+ORIGIN      
+        1 matiaaaafe almdgvtcwd vprgpipsel lligeaafpv mvndkgqvli aassygrgrl
+       61 vvvshegyls htglapflln avswlcpcpg apvgvhpsla plvnilqdag leaqvkpepg
+      121 eplgvycina yndtltatli qfvkhgggll iggqawywas qhgpdkvlsr fpgnkvtsva
+      181 gvyftdtygd rdrfkvskkv pkiplhvryg edvrqdqqql legiseldir tggvpsqllv
+      241 hgalafplgl daslncflaa ahygrgrvvl aahecllcap kmgpfllnav rwlargqtgk
+      301 vgvntnlkdl cpllsehglq cslephlnsd lcvycckays dkeakqlqef vaegggllig
+      361 gqawwwasqn pghcplagfp gniilncfgl silpqtlkag cfpvptpemr syhfrkalsq
+      421 fqailnheng nleksclakl rvdgaaflqi paegvpayis lhrllrkmlr gsglpavsre
+      481 npvasdsyea avlslatgla hsgtdcsqla qglgtwtcss slypskhpit veinginpgn
+      541 ndcwvstgly llegqnaevs lseaaasagl rvqigchtdd ltkarklsra pvvthqcwmd
+      601 rtersvsclw ggllyvivpk gsqlgpvpvt irgavpapyy klgktsleew krqmqenlap
+      661 wgelatdnii ltvpttnlqa lkdpepvlrl wdemmqavar laaepfpfrr perivadvqi
+      721 sagwmhsgyp imchlesvke iinemdmrsr gvwgpihelg hnqqrhgwef pphtteatcn
+      781 lwsvyvhetv lgipraqahe alsppererr ikahlgkgap lcdwnvwtal etylqlqeaf
+      841 gwepftqlfa eyqtlshlpk dntgrmnlwv kkfsekvkkn lvpffeawgw piqkevadsl
+      901 aslpewqenp mqvylrark
+//
